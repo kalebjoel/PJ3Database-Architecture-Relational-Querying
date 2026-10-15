@@ -1,5 +1,6 @@
 # Database Architecture and Relational Querying 
 ## CS 327E Project 2: Sakila Database Schema Modification and JOINs
+### Authors: Kaleb Luna & Madison Pascual
 
 This project focuses on database configuration, schema modification, and data retrieval using an existing MySQL server. 
 The original Sakila database was remodeled to fit updated business rules for a subscription-based service with no physical stores or inventory. 
